@@ -1,0 +1,13 @@
+
+---
+title: "About me"
+---
+
+<center>
+![](images/photo.jpg){width=50% height=50%} 
+</center>
+
+<p style="font-family: times, serif; font-size:17pt">I am a doctoral student in the Public and Non Profit Management program at University of Texas at Dallas.</p> 
+
+
+
